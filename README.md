@@ -1,4 +1,4 @@
-# My Data Science Learning Journey 
+# My Data Science Learning Journey 🤗
 This repo serves as a personal log and workshop for my data science learning endeavor. This is the place where I organize my code, notes and projects as a aquire new skills.
 
 ### Current Focus :
