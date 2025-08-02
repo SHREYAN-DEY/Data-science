@@ -4,7 +4,7 @@ This repo serves as a personal log and workshop for my data science learning end
 ### Current Focus :
 I'm currently exploring deep trenches of NumPy to understand its root funtionalities.
 
-### Environmaltal Setup :
+### Environmental Setup :
 To maintain a clean and isonated dev env all dependencies are installed within a virtual envirtonment.
 
 ### Source of Info :
