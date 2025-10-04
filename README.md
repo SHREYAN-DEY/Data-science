@@ -18,5 +18,5 @@ To maintain a clean and isonated dev env all dependencies are installed within a
 In this journey all the informations I am leaning is solely from books, free courses and vast open internet. Basically I wanted to say that I am self-learning.
 
 ### Progress bar :
-<a href="https://roadmap.sh/machine-learning">Click Here</a>
+For detailed status of my progression in datascience - <a href="https://roadmap.sh/machine-learning">Click Here</a>
 
